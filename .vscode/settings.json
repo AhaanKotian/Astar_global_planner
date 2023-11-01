@@ -1,0 +1,9 @@
+{
+    "files.associations": {
+        "map": "cpp",
+        "deque": "cpp",
+        "list": "cpp",
+        "string": "cpp",
+        "vector": "cpp"
+    }
+}
